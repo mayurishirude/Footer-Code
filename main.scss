@@ -1,0 +1,30 @@
+
+
+//Fonts
+// @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600&display=swap");
+// @import '../../../node_modules/font-awesome/css/font-awesome.min.css';
+
+
+//base files
+@import  "base/var";
+@import  "base/images";
+@import  "base/typography";
+@import  "base/common";
+@import  "base/fonts";
+@import  "base/buttons";
+
+//layout
+@import  "layout/nav";
+@import  "layout/footer";
+
+
+//pages
+@import  "pages/home";
+@import  "pages/creditcard";
+@import  "pages/creditcarddetails";
+
+
+
+
+
+
